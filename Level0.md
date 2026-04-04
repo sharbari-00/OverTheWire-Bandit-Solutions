@@ -26,8 +26,15 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
   Note: use the -p flag because the server is listening on a non-standard port (2220) instead of the default SSH port (22).
 
 Key concepts Learned
-SSH (Secure Shell): A cryptographic network protocol for operating network services securely over an unsecured network.
+------
 
-Port Forwarding/Specification: Understanding that services don't always run on default ports.
+SSH (Secure Shell):
+------
+A cryptographic network protocol for operating network services securely over an unsecured network.
+
+
+Port Forwarding/Specification: 
+------
+Understanding that services don't always run on default ports.
 
 
