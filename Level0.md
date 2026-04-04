@@ -10,7 +10,7 @@ The objective is to establish a secure remote connection to the OverTheWire game
 * **Password:** `bandit0`
 
 ###  Solution Command
-Open your terminal and executed the following command:
+Open terminal and executed the following command:
 
 ```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220# Bandit Level 0
